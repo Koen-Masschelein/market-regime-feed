@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-10T06:58:03+00:00",
+ "updated": "2026-08-10T10:36:59+00:00",
  "source": "Yahoo Finance (personal use)",
  "indexes": {
   "S&P 500": {
@@ -41,73 +41,73 @@
   },
   "Eurostoxx 50": {
    "symbol": "^STOXX50E",
-   "now": 6523.86,
-   "high": 6523.86,
-   "trigger": 5219.09,
+   "now": 6548.72,
+   "high": 6548.72,
+   "trigger": 5238.98,
    "dd": 0.0,
    "regime": "Bull",
-   "asof": "2026-08-07"
+   "asof": "2026-08-10"
   },
   "Eurostoxx 600": {
    "symbol": "^STOXX",
-   "now": 660.25,
-   "high": 660.25,
-   "trigger": 528.2,
+   "now": 661.05,
+   "high": 661.05,
+   "trigger": 528.84,
    "dd": 0.0,
    "regime": "Bull",
-   "asof": "2026-08-07"
+   "asof": "2026-08-10"
   },
   "FTSE 100": {
    "symbol": "^FTSE",
-   "now": 10901.09,
+   "now": 10874.37,
    "high": 10910.6,
    "trigger": 8728.48,
-   "dd": 0.09,
+   "dd": 0.33,
    "regime": "Bull",
-   "asof": "2026-08-07"
+   "asof": "2026-08-10"
   },
   "FTSE 250": {
    "symbol": "^FTMC",
-   "now": 24854.86,
-   "high": 24854.9,
-   "trigger": 19883.92,
+   "now": 24880.43,
+   "high": 24880.43,
+   "trigger": 19904.34,
    "dd": 0.0,
    "regime": "Bull",
-   "asof": "2026-08-07"
+   "asof": "2026-08-10"
   },
   "FTSE 350": {
    "symbol": "^FTLC",
-   "now": 5941.63,
-   "high": 5941.63,
-   "trigger": 4753.3,
-   "dd": 0.0,
+   "now": 5929.46,
+   "high": 5941.6,
+   "trigger": 4753.28,
+   "dd": 0.2,
    "regime": "Bull",
-   "asof": "2026-08-07"
+   "asof": "2026-08-10"
   },
   "DAX 40": {
    "symbol": "^GDAXI",
-   "now": 26319.45,
-   "high": 26319.45,
-   "trigger": 21055.56,
+   "now": 26426.49,
+   "high": 26426.49,
+   "trigger": 21141.19,
    "dd": 0.0,
    "regime": "Bull",
-   "asof": "2026-08-07"
+   "asof": "2026-08-10"
   },
   "HSI": {
    "symbol": "^HSI",
-   "now": 25869.96,
+   "now": 25937.49,
    "high": 33154.12,
    "trigger": 26523.3,
-   "dd": 21.97,
+   "dd": 21.77,
    "regime": "Bear",
    "asof": "2026-08-10"
   },
   "HSCEI": {
    "symbol": "^HSCE",
-   "now": 8592.77,
+   "now": 8621.84,
    "high": 20400.07,
    "trigger": 16320.06,
-   "dd": 57.88,
+   "dd": 57.74,
    "regime": "Bear",
    "asof": "2026-08-10"
   },
