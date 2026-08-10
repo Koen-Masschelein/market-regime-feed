@@ -1,41 +1,41 @@
 {
- "updated": "2026-08-10T16:09:38+00:00",
+ "updated": "2026-08-10T21:58:41+00:00",
  "source": "Yahoo Finance (personal use)",
  "indexes": {
   "S&P 500": {
    "symbol": "^GSPC",
-   "now": 7763.28,
-   "high": 7763.28,
-   "trigger": 6210.62,
-   "dd": 0.0,
+   "now": 7753.11,
+   "high": 7757.64,
+   "trigger": 6206.11,
+   "dd": 0.06,
    "regime": "Bull",
    "asof": "2026-08-10",
    "ago12": 6340.0
   },
   "Nasdaq 100": {
    "symbol": "^NDX",
-   "now": 29712.6,
+   "now": 29621.81,
    "high": 30660.6,
    "trigger": 24528.48,
-   "dd": 3.09,
+   "dd": 3.39,
    "regime": "Bull",
    "asof": "2026-08-10"
   },
   "Nasdaq Composite": {
    "symbol": "^IXIC",
-   "now": 26658.37,
+   "now": 26605.36,
    "high": 27093.9,
    "trigger": 21675.12,
-   "dd": 1.61,
+   "dd": 1.8,
    "regime": "Bull",
    "asof": "2026-08-10"
   },
   "DJIA": {
    "symbol": "^DJI",
-   "now": 53999.83,
+   "now": 53975.98,
    "high": 54349.12,
    "trigger": 43479.3,
-   "dd": 0.64,
+   "dd": 0.69,
    "regime": "Bull",
    "asof": "2026-08-10"
   },
