@@ -1,0 +1,133 @@
+{
+ "updated": "2026-08-10T06:58:03+00:00",
+ "source": "Yahoo Finance (personal use)",
+ "indexes": {
+  "S&P 500": {
+   "symbol": "^GSPC",
+   "now": 7757.64,
+   "high": 7757.64,
+   "trigger": 6206.11,
+   "dd": 0.0,
+   "regime": "Bull",
+   "asof": "2026-08-07",
+   "ago12": 6345.06
+  },
+  "Nasdaq 100": {
+   "symbol": "^NDX",
+   "now": 29722.3,
+   "high": 30660.6,
+   "trigger": 24528.48,
+   "dd": 3.06,
+   "regime": "Bull",
+   "asof": "2026-08-07"
+  },
+  "Nasdaq Composite": {
+   "symbol": "^IXIC",
+   "now": 26690.62,
+   "high": 27093.9,
+   "trigger": 21675.12,
+   "dd": 1.49,
+   "regime": "Bull",
+   "asof": "2026-08-07"
+  },
+  "DJIA": {
+   "symbol": "^DJI",
+   "now": 54036.93,
+   "high": 54349.12,
+   "trigger": 43479.3,
+   "dd": 0.57,
+   "regime": "Bull",
+   "asof": "2026-08-07"
+  },
+  "Eurostoxx 50": {
+   "symbol": "^STOXX50E",
+   "now": 6523.86,
+   "high": 6523.86,
+   "trigger": 5219.09,
+   "dd": 0.0,
+   "regime": "Bull",
+   "asof": "2026-08-07"
+  },
+  "Eurostoxx 600": {
+   "symbol": "^STOXX",
+   "now": 660.25,
+   "high": 660.25,
+   "trigger": 528.2,
+   "dd": 0.0,
+   "regime": "Bull",
+   "asof": "2026-08-07"
+  },
+  "FTSE 100": {
+   "symbol": "^FTSE",
+   "now": 10901.09,
+   "high": 10910.6,
+   "trigger": 8728.48,
+   "dd": 0.09,
+   "regime": "Bull",
+   "asof": "2026-08-07"
+  },
+  "FTSE 250": {
+   "symbol": "^FTMC",
+   "now": 24854.86,
+   "high": 24854.9,
+   "trigger": 19883.92,
+   "dd": 0.0,
+   "regime": "Bull",
+   "asof": "2026-08-07"
+  },
+  "FTSE 350": {
+   "symbol": "^FTLC",
+   "now": 5941.63,
+   "high": 5941.63,
+   "trigger": 4753.3,
+   "dd": 0.0,
+   "regime": "Bull",
+   "asof": "2026-08-07"
+  },
+  "DAX 40": {
+   "symbol": "^GDAXI",
+   "now": 26319.45,
+   "high": 26319.45,
+   "trigger": 21055.56,
+   "dd": 0.0,
+   "regime": "Bull",
+   "asof": "2026-08-07"
+  },
+  "HSI": {
+   "symbol": "^HSI",
+   "now": 25869.96,
+   "high": 33154.12,
+   "trigger": 26523.3,
+   "dd": 21.97,
+   "regime": "Bear",
+   "asof": "2026-08-10"
+  },
+  "HSCEI": {
+   "symbol": "^HSCE",
+   "now": 8592.77,
+   "high": 20400.07,
+   "trigger": 16320.06,
+   "dd": 57.88,
+   "regime": "Bear",
+   "asof": "2026-08-10"
+  },
+  "Nikkei 225": {
+   "symbol": "^N225",
+   "now": 66970.22,
+   "high": 72366.34,
+   "trigger": 57893.08,
+   "dd": 7.46,
+   "regime": "Bull",
+   "asof": "2026-08-10"
+  },
+  "ASX 200": {
+   "symbol": "^AXJO",
+   "now": 9232.6,
+   "high": 9271.6,
+   "trigger": 7417.28,
+   "dd": 0.42,
+   "regime": "Bull",
+   "asof": "2026-08-10"
+  }
+ }
+}
