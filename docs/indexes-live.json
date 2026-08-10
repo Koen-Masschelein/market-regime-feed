@@ -1,94 +1,94 @@
 {
- "updated": "2026-08-10T10:36:59+00:00",
+ "updated": "2026-08-10T16:09:38+00:00",
  "source": "Yahoo Finance (personal use)",
  "indexes": {
   "S&P 500": {
    "symbol": "^GSPC",
-   "now": 7757.64,
-   "high": 7757.64,
-   "trigger": 6206.11,
+   "now": 7763.28,
+   "high": 7763.28,
+   "trigger": 6210.62,
    "dd": 0.0,
    "regime": "Bull",
-   "asof": "2026-08-07",
-   "ago12": 6345.06
+   "asof": "2026-08-10",
+   "ago12": 6340.0
   },
   "Nasdaq 100": {
    "symbol": "^NDX",
-   "now": 29722.3,
+   "now": 29712.6,
    "high": 30660.6,
    "trigger": 24528.48,
-   "dd": 3.06,
+   "dd": 3.09,
    "regime": "Bull",
-   "asof": "2026-08-07"
+   "asof": "2026-08-10"
   },
   "Nasdaq Composite": {
    "symbol": "^IXIC",
-   "now": 26690.62,
+   "now": 26658.37,
    "high": 27093.9,
    "trigger": 21675.12,
-   "dd": 1.49,
+   "dd": 1.61,
    "regime": "Bull",
-   "asof": "2026-08-07"
+   "asof": "2026-08-10"
   },
   "DJIA": {
    "symbol": "^DJI",
-   "now": 54036.93,
+   "now": 53999.83,
    "high": 54349.12,
    "trigger": 43479.3,
-   "dd": 0.57,
+   "dd": 0.64,
    "regime": "Bull",
-   "asof": "2026-08-07"
+   "asof": "2026-08-10"
   },
   "Eurostoxx 50": {
    "symbol": "^STOXX50E",
-   "now": 6548.72,
-   "high": 6548.72,
-   "trigger": 5238.98,
+   "now": 6535.62,
+   "high": 6535.62,
+   "trigger": 5228.5,
    "dd": 0.0,
    "regime": "Bull",
    "asof": "2026-08-10"
   },
   "Eurostoxx 600": {
    "symbol": "^STOXX",
-   "now": 661.05,
-   "high": 661.05,
-   "trigger": 528.84,
+   "now": 660.45,
+   "high": 660.45,
+   "trigger": 528.36,
    "dd": 0.0,
    "regime": "Bull",
    "asof": "2026-08-10"
   },
   "FTSE 100": {
    "symbol": "^FTSE",
-   "now": 10874.37,
+   "now": 10862.5,
    "high": 10910.6,
    "trigger": 8728.48,
-   "dd": 0.33,
+   "dd": 0.44,
    "regime": "Bull",
    "asof": "2026-08-10"
   },
   "FTSE 250": {
    "symbol": "^FTMC",
-   "now": 24880.43,
-   "high": 24880.43,
-   "trigger": 19904.34,
-   "dd": 0.0,
+   "now": 24744.54,
+   "high": 24854.9,
+   "trigger": 19883.92,
+   "dd": 0.44,
    "regime": "Bull",
    "asof": "2026-08-10"
   },
   "FTSE 350": {
    "symbol": "^FTLC",
-   "now": 5929.46,
+   "now": 5920.02,
    "high": 5941.6,
    "trigger": 4753.28,
-   "dd": 0.2,
+   "dd": 0.36,
    "regime": "Bull",
    "asof": "2026-08-10"
   },
   "DAX 40": {
    "symbol": "^GDAXI",
-   "now": 26426.49,
-   "high": 26426.49,
-   "trigger": 21141.19,
+   "now": 26323.88,
+   "high": 26323.88,
+   "trigger": 21059.1,
    "dd": 0.0,
    "regime": "Bull",
    "asof": "2026-08-10"
