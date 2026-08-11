@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-10T21:58:41+00:00",
+ "updated": "2026-08-11T04:40:25+00:00",
  "source": "Yahoo Finance (personal use)",
  "indexes": {
   "S&P 500": {
@@ -95,21 +95,21 @@
   },
   "HSI": {
    "symbol": "^HSI",
-   "now": 25937.49,
+   "now": 25773.56,
    "high": 33154.12,
    "trigger": 26523.3,
-   "dd": 21.77,
+   "dd": 22.26,
    "regime": "Bear",
-   "asof": "2026-08-10"
+   "asof": "2026-08-11"
   },
   "HSCEI": {
    "symbol": "^HSCE",
-   "now": 8621.84,
+   "now": 8569.1,
    "high": 20400.07,
    "trigger": 16320.06,
-   "dd": 57.74,
+   "dd": 57.99,
    "regime": "Bear",
-   "asof": "2026-08-10"
+   "asof": "2026-08-11"
   },
   "Nikkei 225": {
    "symbol": "^N225",
@@ -122,12 +122,12 @@
   },
   "ASX 200": {
    "symbol": "^AXJO",
-   "now": 9232.6,
+   "now": 9257.8,
    "high": 9271.6,
    "trigger": 7417.28,
-   "dd": 0.42,
+   "dd": 0.15,
    "regime": "Bull",
-   "asof": "2026-08-10"
+   "asof": "2026-08-11"
   }
  }
 }
