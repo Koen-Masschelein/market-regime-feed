@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-11T04:40:25+00:00",
+ "updated": "2026-08-11T10:11:37+00:00",
  "source": "Yahoo Finance (personal use)",
  "indexes": {
   "S&P 500": {
@@ -41,73 +41,73 @@
   },
   "Eurostoxx 50": {
    "symbol": "^STOXX50E",
-   "now": 6535.62,
-   "high": 6535.62,
-   "trigger": 5228.5,
+   "now": 6538.27,
+   "high": 6538.27,
+   "trigger": 5230.62,
    "dd": 0.0,
    "regime": "Bull",
-   "asof": "2026-08-10"
+   "asof": "2026-08-11"
   },
   "Eurostoxx 600": {
    "symbol": "^STOXX",
-   "now": 660.45,
+   "now": 660.23,
    "high": 660.45,
    "trigger": 528.36,
-   "dd": 0.0,
+   "dd": 0.03,
    "regime": "Bull",
-   "asof": "2026-08-10"
+   "asof": "2026-08-11"
   },
   "FTSE 100": {
    "symbol": "^FTSE",
-   "now": 10862.5,
+   "now": 10851.27,
    "high": 10910.6,
    "trigger": 8728.48,
-   "dd": 0.44,
+   "dd": 0.54,
    "regime": "Bull",
-   "asof": "2026-08-10"
+   "asof": "2026-08-11"
   },
   "FTSE 250": {
    "symbol": "^FTMC",
-   "now": 24744.54,
+   "now": 24681.43,
    "high": 24854.9,
    "trigger": 19883.92,
-   "dd": 0.44,
+   "dd": 0.7,
    "regime": "Bull",
-   "asof": "2026-08-10"
+   "asof": "2026-08-11"
   },
   "FTSE 350": {
    "symbol": "^FTLC",
-   "now": 5920.02,
+   "now": 5912.92,
    "high": 5941.6,
    "trigger": 4753.28,
-   "dd": 0.36,
+   "dd": 0.48,
    "regime": "Bull",
-   "asof": "2026-08-10"
+   "asof": "2026-08-11"
   },
   "DAX 40": {
    "symbol": "^GDAXI",
-   "now": 26323.88,
+   "now": 26284.65,
    "high": 26323.88,
    "trigger": 21059.1,
-   "dd": 0.0,
+   "dd": 0.15,
    "regime": "Bull",
-   "asof": "2026-08-10"
+   "asof": "2026-08-11"
   },
   "HSI": {
    "symbol": "^HSI",
-   "now": 25773.56,
+   "now": 25652.82,
    "high": 33154.12,
    "trigger": 26523.3,
-   "dd": 22.26,
+   "dd": 22.63,
    "regime": "Bear",
    "asof": "2026-08-11"
   },
   "HSCEI": {
    "symbol": "^HSCE",
-   "now": 8569.1,
+   "now": 8528.1,
    "high": 20400.07,
    "trigger": 16320.06,
-   "dd": 57.99,
+   "dd": 58.2,
    "regime": "Bear",
    "asof": "2026-08-11"
   },
@@ -122,10 +122,10 @@
   },
   "ASX 200": {
    "symbol": "^AXJO",
-   "now": 9257.8,
+   "now": 9250.6,
    "high": 9271.6,
    "trigger": 7417.28,
-   "dd": 0.15,
+   "dd": 0.23,
    "regime": "Bull",
    "asof": "2026-08-11"
   }
